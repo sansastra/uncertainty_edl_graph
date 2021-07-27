@@ -1,6 +1,5 @@
 # uncertainty_edl_graph
 Leveraging Evidential Deep Learning Uncertainties with Graph-based Clustering to Detect Anomalies (paper under submission)
-
 Link: https://arxiv.org/pdf/2107.01557.pdf
 
 Repository information:
@@ -12,7 +11,7 @@ Repository information:
 [1] M. Sensoy et al, "Evidential Deep Learning to Quantify Classification Uncertainty", NeurIPS 2018. 
 Link: https://papers.nips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf
 
-[2] A. Amini et al, "Deep Evidential Regression," NeurIPS 2020. 
+[2] A. Amini et al, "Deep Evidential Regression," NeurIPS 2020.
 Link: https://papers.nips.cc/paper/2020/file/aab085461de182608ee9f607f3f7d18f-Paper.pdf
 
 Python code: EDL classifier in Pytorch and RNN-EDL regressor model in Tensorflow, for version and dependencies, see the requirements in the repository.  
